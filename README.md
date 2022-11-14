@@ -1,4 +1,4 @@
-- 👋 Bonjour à vous, I’m @ZeCrusher73
+- 👋 Bonjour à vous, I’m @ZeCrusher
 - 👀 I’m interested in php / javascript
 - 🌱 I’m currently learning C++ / javascript
 - 💞️ MCT & MT
